@@ -1,0 +1,28 @@
+################################
+Report Submission for YYYY-MM-DD
+################################
+
+###############
+Tasks Completed
+###############
+
+##########################################################################
+Contains a description of the tasks completed, including an explanation of 
+how the performance of said tasks contributes to the overall goal of 
+learning the MEAN stack. Reference to any books/texts used must also be 
+given.
+##########################################################################
+
+#######
+Remarks
+#######
+
+##########################################################################
+Mention of any additional remarks that the participant would like to make,
+should be placed here.
+##########################################################################
+
+                                                                  ########
+                                                                  username
+                                                                  ########
+
