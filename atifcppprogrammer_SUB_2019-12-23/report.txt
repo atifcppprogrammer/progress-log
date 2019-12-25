@@ -1,0 +1,41 @@
+################################
+Report Submission for 2019-12-23
+################################
+
+###############
+Tasks Completed
+###############
+
+##########################################################################
+Chapter-4 from Marc Wandschneider's Learning Node.js was completed, the c-
+hapter was read in its entirety and all the code-listings therein were re-
+ad and understood. In particular we aquired knowledge of the following.
+
+  - Setting up a basic HTTP server in node.js
+  - Node.js design patterns in particular the Asynchronous loop.
+  - Expanding our server to entertain GET & POST requests.
+  - Using the fs module to read a directories contents and identify 
+    the items therein as directories or files.
+  - Collecting and parsing data (json and text) for a POST request,
+    in instances where the request is made from a form or using cURL.
+
+This is ofcourse a brief summary of what was learned but the above knowle-
+is necessary to aquire before moving on the Express Web-development frame-
+work which runs on Node.js and is thus crucial to eventually mastering the 
+MEAN Stack.
+##########################################################################
+
+#######
+Remarks
+#######
+
+##########################################################################
+For atifcppprogrammmer completing this chapter was in essence a revision
+therfore there is a need to quicken the pace of covering the text mention-
+ed in the above section.
+##########################################################################
+
+                                                         #################
+                                                         atifcppprogrammer
+                                                         #################
+
